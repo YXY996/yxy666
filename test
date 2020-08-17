@@ -1,0 +1,41 @@
+<！DOCTYPE HTML>
+<html>
+<meta http-equiv="Content-
+Type"content = "text/html; charset = utf-8"/>
+<body>
+<body style = "background-color : yellow">
+<h1 style ="text-align :"center">my first title</h1>
+<hr/>
+<h2 style = "font- family :verdana">This is a heading</h2>
+<hr/>
+<h2>This is a heading</h2>
+<h3>This is a heading</h3>
+<h2 style = "background-color : red">This is not a  heading</h2>
+<!--h1,h2,h3为主标题，副标题-->
+<p>我的第一个段落.</p>
+<hr/>
+<bdo dir ="rtl">
+This line will be written from right to left
+</bdo>
+<p>This is a paragragh</p>
+<p>Coding Example:</p>
+<code>
+<pre>
+var person = {
+    firstName:"Bill",
+    lastName:"Gates",
+    age:50,
+    eyeColor:"blue"
+}
+</pre>
+</code>
+<p>
+爱因斯坦公式:</p>
+<p>
+<var>E</var>=<var>m</var><var>c</var><sup2</sup>
+</p>
+<p style ="font-family:arial;color: red;font-size:20px">This is <br/>a para<br/>gragh.</p>
+<a href = "http://www.w3school.com.cn">
+This is a link</a>
+</body>
+</html>
